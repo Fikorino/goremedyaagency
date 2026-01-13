@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Montserrat:wght@600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.section {
+  @apply py-16 md:py-24;
+}
+
+.container-page {
+  @apply mx-auto w-full max-w-6xl px-6;
+}
+
+.card {
+  @apply rounded-3xl border border-black/10 bg-white shadow-soft transition-transform duration-300 hover:-translate-y-1;
+}
+
+.button-primary {
+  @apply inline-flex items-center justify-center rounded-full bg-accent px-6 py-3 text-sm font-semibold text-black transition-colors hover:bg-accent-dark;
+}
+
+.button-secondary {
+  @apply inline-flex items-center justify-center rounded-full border border-black/20 px-6 py-3 text-sm font-semibold text-black transition-colors hover:border-black;
+}
+
+.input {
+  @apply w-full rounded-2xl border border-black/20 px-4 py-3 text-sm focus:border-black focus:outline-none;
+}
+
+.label {
+  @apply mb-2 block text-sm font-semibold text-black/70;
+}
+
+.badge {
+  @apply inline-flex items-center rounded-full bg-black/5 px-3 py-1 text-xs font-semibold;
+}
+
+.gradient-orb {
+  background: radial-gradient(circle at 30% 30%, rgba(254, 236, 37, 0.8), rgba(254, 236, 37, 0.2), transparent 70%);
+}
+
+.slider-3d {
+  perspective: 1000px;
+}
+
+.slider-3d-item {
+  transform-style: preserve-3d;
+}
+
+.logo-marquee {
+  animation: marquee 18s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
