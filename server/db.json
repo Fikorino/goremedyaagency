@@ -1,0 +1,343 @@
+{
+  "services": [
+    {
+      "id": "svc-1",
+      "title": "Sosyal Medya Yönetimi",
+      "slug": "sosyal-medya-yonetimi",
+      "summary": "Strateji, içerik planı, yayın takvimi ve performans optimizasyonu tek pakette.",
+      "description": "Sosyal medya yönetimi; haftalık içerik planı, platform bazlı içerik üretimi, topluluk yönetimi ve raporlama süreçlerini kapsar. Göre Medya Ajans olarak Antalya ve çevresinde büyüme odaklı sosyal medya stratejileri geliştiriyor, reklam ve içerik optimizasyonunu sürekli iyileştiriyoruz.",
+      "minPrice": 12000,
+      "maxPrice": 28000,
+      "weight": 1.0,
+      "seoTitle": "Sosyal Medya Yönetimi",
+      "seoDescription": "Antalya'da sosyal medya yönetimi, içerik planı ve performans raporlama hizmeti.",
+      "focusKeyword": "sosyal medya yönetimi Antalya"
+    },
+    {
+      "id": "svc-2",
+      "title": "Grafik Tasarım",
+      "slug": "grafik-tasarim",
+      "summary": "Dijital ve baskı materyallerinde marka tutarlılığı sağlayan yaratıcı tasarımlar.",
+      "description": "Kurumsal kimlik, sosyal medya tasarımları, kampanya görselleri ve baskı materyalleri için yaratıcı grafik tasarım çözümleri sunuyoruz. Marka dilinizi güçlendirirken her platformda tutarlı bir görsel deneyim sağlıyoruz.",
+      "minPrice": 8000,
+      "maxPrice": 20000,
+      "weight": 0.9,
+      "seoTitle": "Grafik Tasarım Hizmeti",
+      "seoDescription": "Kreatif grafik tasarım, dijital kampanya ve marka görsel dili çözümleri.",
+      "focusKeyword": "grafik tasarım ajansı"
+    },
+    {
+      "id": "svc-3",
+      "title": "Prodüksiyon",
+      "slug": "produksiyon",
+      "summary": "Video prodüksiyon, reklam filmi ve sosyal medya çekim süreçleri.",
+      "description": "Senaryo geliştirmeden çekim ve kurgudan yayına kadar tüm prodüksiyon sürecini yönetiyoruz. Reklam filmi, Reels, YouTube ve web videoları için Antalya'da güçlü prodüksiyon hizmeti sağlıyoruz.",
+      "minPrice": 20000,
+      "maxPrice": 60000,
+      "weight": 1.2,
+      "seoTitle": "Prodüksiyon Hizmeti",
+      "seoDescription": "Video prodüksiyon, reklam filmi ve sosyal medya çekimleri.",
+      "focusKeyword": "prodüksiyon ajansı Antalya"
+    },
+    {
+      "id": "svc-4",
+      "title": "Web Site Tasarımı",
+      "slug": "web-site-tasarimi",
+      "summary": "Hızlı, SEO uyumlu ve dönüşüm odaklı web tasarım çözümleri.",
+      "description": "Kurumsal web siteleri, landing page ve e-ticaret arayüzleri için modern, mobil uyumlu ve SEO temelli web tasarım hizmetleri sunuyoruz. Kullanıcı deneyimi ve performansı birlikte optimize ediyoruz.",
+      "minPrice": 18000,
+      "maxPrice": 45000,
+      "weight": 1.1,
+      "seoTitle": "Web Site Tasarımı",
+      "seoDescription": "Kurumsal web sitesi tasarımı ve SEO uyumlu geliştirme.",
+      "focusKeyword": "web tasarım Antalya"
+    },
+    {
+      "id": "svc-5",
+      "title": "Fotoğraf Çekimi",
+      "slug": "fotograf-cekimi",
+      "summary": "Ürün, mekan ve portre çekimleriyle markanızın güvenini artırın.",
+      "description": "Profesyonel fotoğraf çekimi ile markanızın hikayesini doğru görsellerle anlatıyoruz. Ürün çekimi, mekan fotoğrafı ve kurumsal portre çekimleri dahil tam kapsamlı hizmet.",
+      "minPrice": 10000,
+      "maxPrice": 25000,
+      "weight": 0.95,
+      "seoTitle": "Fotoğraf Çekimi",
+      "seoDescription": "Ürün, mekan ve portre fotoğraf çekimleri.",
+      "focusKeyword": "fotoğraf çekimi Antalya"
+    },
+    {
+      "id": "svc-6",
+      "title": "Marka Tanıtımı",
+      "slug": "marka-tanitimi",
+      "summary": "Marka konumlandırma, iletişim dili ve lansman kampanyaları.",
+      "description": "Marka tanıtımı hizmetimiz; konumlandırma analizi, hedef kitle iletişimi, kampanya kurgusu ve PR destekleriyle markanızı büyütür. Lansman süreçlerinde yanınızdayız.",
+      "minPrice": 15000,
+      "maxPrice": 35000,
+      "weight": 1.0,
+      "seoTitle": "Marka Tanıtımı",
+      "seoDescription": "Marka tanıtımı, lansman ve konumlandırma çalışmaları.",
+      "focusKeyword": "marka tanıtımı ajansı"
+    },
+    {
+      "id": "svc-7",
+      "title": "Reklam Çalışmaları (Meta/Google Ads danışmanlığı)",
+      "slug": "reklam-calismalari",
+      "summary": "Meta ve Google Ads yönetimi ile performans odaklı büyüme.",
+      "description": "Reklam çalışmaları hizmetimiz; strateji belirleme, kampanya kurulumu, optimizasyon ve raporlama süreçlerini kapsar. Satış ve trafik hedeflerine göre kurgulanan kampanyalarla yatırım getirisini artırırız.",
+      "minPrice": 14000,
+      "maxPrice": 40000,
+      "weight": 1.15,
+      "seoTitle": "Reklam Çalışmaları",
+      "seoDescription": "Meta ve Google Ads danışmanlığı, performans reklam yönetimi.",
+      "focusKeyword": "Google Ads danışmanlığı"
+    }
+  ],
+  "logos": [
+    {
+      "id": "logo-1",
+      "name": "Antalya Marina",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=200&q=80",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "logo-2",
+      "name": "Güneş Otel",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=200&q=80",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "logo-3",
+      "name": "Lavanta Klinik",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=200&q=80",
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "logo-4",
+      "name": "Anka Mobilya",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=200&q=80",
+      "order": 4,
+      "active": true
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "pf-1",
+      "title": "Antalya Marina Lansmanı",
+      "slug": "antalya-marina-lansmani",
+      "summary": "Yeni marina lansmanı için içerik üretimi ve performans reklamları.",
+      "description": "Antalya Marina için sosyal medya lansmanı, video prodüksiyon ve Meta Ads kampanyaları yürüttük. 6 haftalık süreçte marka bilinirliği ve rezervasyon taleplerinde artış sağlandı.",
+      "tags": [
+        "Sosyal Medya",
+        "Prodüksiyon",
+        "Reklam"
+      ],
+      "coverUrl": "https://images.unsplash.com/photo-1493558103817-58b2924bce98?auto=format&fit=crop&w=1200&q=80",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1493558103817-58b2924bce98?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "date": "2024-06-12",
+      "results": "Bilinirlikte %42 artış, 2400+ lead."
+    },
+    {
+      "id": "pf-2",
+      "title": "Lavanta Klinik Dijital Dönüşüm",
+      "slug": "lavanta-klinik-dijital-donusum",
+      "summary": "Klinik için web yenileme, içerik üretimi ve reklam yönetimi.",
+      "description": "Lavanta Klinik web sitesi UI/UX yenilemesi, SEO içerik planı ve Google Ads kampanyalarıyla randevu taleplerini artırdık.",
+      "tags": [
+        "Web",
+        "SEO",
+        "Reklam"
+      ],
+      "coverUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1200&q=80",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "date": "2024-05-20",
+      "results": "Randevu taleplerinde %35 artış."
+    },
+    {
+      "id": "pf-3",
+      "title": "Anka Mobilya Marka Yenileme",
+      "slug": "anka-mobilya-marka-yenileme",
+      "summary": "Grafik tasarım ve içerik üretimiyle modern marka kimliği.",
+      "description": "Anka Mobilya için yeni marka dili, görsel tasarım setleri ve sosyal medya planı oluşturduk.",
+      "tags": [
+        "Grafik",
+        "Sosyal Medya"
+      ],
+      "coverUrl": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "date": "2024-04-10"
+    }
+  ],
+  "blog": [
+    {
+      "id": "post-2026da-sosyal-medya-yonetimi",
+      "title": "2026’da Sosyal Medya Yönetimi: Antalya’da İşletmeler İçin Yol Haritası",
+      "slug": "2026da-sosyal-medya-yonetimi",
+      "excerpt": "Antalya'da markalar için strateji, içerik üretimi ve performans yönetimi odaklı kapsamlı rehber.",
+      "content": "## 2026'da Sosyal Medya Yönetimi Neden Daha Kritik?\n2026 yılında sosyal medya yönetimi, Antalya'daki işletmeler için yalnızca paylaşım planı değildir; müşteri yolculuğunun tamamını etkileyen bir büyüme motorudur. Algoritmalar artık sadece beğeni veya takipçi sayısına değil, içeriklerin gerçek iş hedeflerine katkısına bakıyor. Bu nedenle markaların topluluk yönetimi, içerik üretimi ve reklam performansını tek bir çerçevede yönetmesi gerekir. Göre Medya Ajans olarak şehirdeki işletmelerin turizm sezonu, yerel etkinlik ve sürekli talep döngülerini içeren stratejiler geliştirmesini öneriyoruz.\n\n### Antalya Pazarı için Öncelikli Trendler\nAntalya özelinde sosyal medya, sezonsal kampanyalar ve hızlı dönüşüm gerektiren hizmet sektörleriyle öne çıkar. Bu nedenle içerik planı oluştururken şu sorulara yanıt vermek gerekir: Hedef kitleniz hangi platformda daha aktif? Hizmetinizi satın almadan önce hangi bilgiye ihtiyaç duyuyor? Hafta içi ve hafta sonu davranışları nasıl değişiyor? Bu sorulara verilen yanıtlar içerik planınızı belirlerken temel referans olur.\n\n## Stratejiye Dayalı İçerik Tasarımı\n2026 yılında içerik planlamasında “gönderi sayısı” değil, “gönderinin amacı” önemlidir. İçerikleri dört blokta düşünün: keşif, güven, dönüşüm ve sadakat. Örneğin; keşif içerikleri Reels ve kısa videolarla markayı tanıtırken, güven içerikleri müşteri yorumları ve arka plan hikayeleriyle markayı güçlendirir. Dönüşüm içerikleri ise teklif, paket ve hizmet açıklamalarını netleştirir.\n\n### İçerik Takvimi ve Haftalık Ritüel\nAntalya'da işletmelerin sık yaptığı hata, sezon yoğunluğu geldiğinde içerik üretimine zaman ayıramamaktır. Bunun için aylık içerik planı ve haftalık üretim ritüeli oluşturmak gerekir. Göre Medya Ajans'ın önerisi, haftada iki gün çekim ve tasarım, bir gün yayınlama, bir gün reklam optimizasyonu şeklinde bir döngüdür. Böylece içerik üretimi kesintiye uğramaz.\n\n## Topluluk Yönetimi ve Yerel Etkileşim\n2026'da topluluk yönetimi sadece yorumlara cevap vermek değildir. Yerel influencer iş birlikleri, bölgesel etkinlik etiketleri ve Antalya özelinde mikro topluluklarla ilişki kurmak gerekir. Örneğin, turizm işletmesiyseniz, sezon dışında yerel halk için özel içerik üretmek marka bağlılığını artırır.\n\n## Reklam Optimizasyonu ve Ölçümleme\nSosyal medya yönetiminde reklam ve organik içerik ayrımı kalmadı. 2026'da organik içerikler reklam kampanyalarını besleyen bir test alanı olacak. En iyi performans gösteren içerikler Meta Ads kampanyalarına taşınmalı. Bu noktada Göre Medya Ajans'ın [Reklam Çalışmaları](/hizmetler/reklam-calismalari) hizmeti devreye girer.\n\n### KPI'lar ve Ölçülebilir Sonuçlar\nSosyal medya yönetiminde hedeflerin KPI'a dönüşmesi gerekir. Örneğin; hedefiniz marka bilinirliği ise erişim, video izlenme süresi ve profil ziyaretleri temel KPI'lar olur. Satış odaklı bir hedefte ise web tıklamaları, form doldurma oranı ve dönüşüm maliyeti izlenmelidir. Bu KPI'lar haftalık raporlarla değerlendirilmelidir.\n\n## İçerik Formatlarında 2026 Trendleri\n2026'da özellikle kısa video, yapay zeka destekli görsel üretimi ve etkileşimli anketler öne çıkacak. Ancak yerel işletmeler için en güçlü içerik formatı, “gerçek deneyim” içerikleridir. İşletme sahibinin konuştuğu videolar, ekip hikayeleri ve gerçek müşteri deneyimleri, güven oluşturan içeriklerdir. Bu içerikler [Prodüksiyon](/hizmetler/produksiyon) hizmetiyle profesyonel hale getirilebilir.\n\n### Hikaye Serileri ve Uzun Vadeli Anlatı\nİzleyicinin dikkat süresi kısalıyor, ancak hikaye akışı olan içerikler daha uzun izlenme elde ediyor. Örneğin; bir restoran için “Mutfağın Yolculuğu” başlıklı 6 bölümlük kısa video serisi, sıradan içeriklerden daha yüksek etkileşim sağlar. Bu seri, mutfak hazırlığından servis anına kadar ilerleyen bir hikaye sunar.\n\n## Antalya'da Sosyal Medya Yönetimi için Yol Haritası\n1. Hedef kitlenin segmentasyonu ve müşteri personeları\n2. Platform bazlı içerik planı (Instagram, TikTok, LinkedIn)\n3. Aylık içerik üretim takvimi ve çekim günleri\n4. Reklam ve organik içeriğin test edilmesi\n5. Raporlama ve optimizasyon döngüsü\n\n### Sürdürülebilirlik ve Ekip İçi Süreçler\nSosyal medya yönetimi sürdürülebilir bir ekip çalışması ister. İçerik üretimi, tasarım, metin yazımı ve raporlama süreçleri netleşmezse sürdürülebilirlik mümkün olmaz. Bu noktada [Sosyal Medya Yönetimi](/hizmetler/sosyal-medya-yonetimi) hizmetimiz, süreçleri tek bir panelde yönetmenizi sağlar.\n\n## Sonuç\n2026 yılında sosyal medya yönetimi, Antalya'da işletmelerin büyüme stratejisinin merkezinde olacak. Başarılı bir yol haritası, içerik stratejisi, topluluk yönetimi ve reklam optimizasyonunun birlikte yürütülmesiyle mümkündür. İşletmeniz için sağlam bir yol haritası oluşturmak ve markanızı bir adım öne taşımak için Göre Medya Ajans ile stratejinizi güçlendirebilirsiniz.\n\n\n## Stratejik Kontrol Listesi\n- Hedef kitle analizi güncel mi?\n- İçerik hedefleri ve KPI'lar net mi?\n- Görsel dil marka rehberiyle uyumlu mu?\n- Reklam ve organik içerik dengesi sağlandı mı?\n- Haftalık raporlama düzenli mi?\n\n### Ölçümleme ve Sürekli İyileştirme\nBaşarılı bir dijital strateji, düzenli ölçüm ve optimizasyon ister. Haftalık raporlarla erişim, etkileşim ve dönüşüm oranları değerlendirilmelidir. Aylık olarak ise bütçe, reklam performansı ve içerik üretim verimliliği gözden geçirilmelidir. Bu süreç, işletmenin büyüme hedefleriyle sürekli uyum içinde tutulmalıdır.\n\n### Uygulama İçin Kısa Öneriler\n- İçerik üretimini 2 haftalık bloklar halinde planlayın.\n- Fotoğraf ve video çekimlerini sezon öncesinde tamamlayın.\n- Reklam kampanyalarını düşük bütçeli testlerle başlatın.\n- En iyi performans gösteren içerikleri ölçekleyin.\n- Ajans ile aylık strateji toplantıları yapın.\n\n### Antalya Pazarı İçin Ek Notlar\nAntalya'da işletmeler için sezonluk dalgalanmalar stratejiyi etkiler. Yüksek sezon öncesinde görünürlük kampanyaları yapılmalı, düşük sezonda ise marka bağlılığı ve içerik çeşitliliği artırılmalıdır. Yerel etkinlik ve festivallere özel içerikler üretmek marka algısını güçlendirir.\n\n## Sık Sorulan Sorular\n**Bu stratejiler hangi sektörler için uygundur?**\nHizmet, turizm, sağlık, perakende ve eğitim sektörleri için uygundur.\n\n**Ne kadar sürede sonuç alınır?**\nStratejinin kapsamına göre 4-12 hafta arasında ölçülebilir sonuçlar alınabilir.\n\n**Ajans ile çalışmak neden önemlidir?**\nAjanslar, strateji, üretim ve performans süreçlerini tek bir sistemde yönettiği için daha hızlı ve sürdürülebilir sonuç üretir.\n\n## Sonuç ve Özet\nGöre Medya Ajans, Antalya'daki işletmeler için strateji, içerik, prodüksiyon ve reklam yönetimini bir arada sunar. Daha güçlü bir dijital görünürlük ve sürdürülebilir büyüme için doğru planlama ve profesyonel destek şarttır.",
+      "category": "Dijital Pazarlama",
+      "coverUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&q=80",
+      "seoTitle": "2026 Sosyal Medya Yönetimi Antalya",
+      "seoDescription": "Antalya işletmeleri için stratejik pazarlama rehberi ve uygulanabilir adımlar.",
+      "focusKeyword": "Antalya dijital pazarlama",
+      "createdAt": "2024-08-01T10:00:00"
+    },
+    {
+      "id": "post-reels-ile-satis-artirma",
+      "title": "Reels ile Satış Artırma: Kanca, CTA ve İçerik Planı",
+      "slug": "reels-ile-satis-artirma",
+      "excerpt": "Antalya'da markalar için strateji, içerik üretimi ve performans yönetimi odaklı kapsamlı rehber.",
+      "content": "## Reels ile Satış Artırma: Neden 2026'da En Güçlü Kanal?\nReels, 2026'da sosyal medya reklamcılığının en yüksek dönüşüm oranına sahip formatlarından biri olmaya devam ediyor. Antalya'da turizm, hizmet ve perakende sektörleri için Reels videoları, hızlı etkileşim ve güçlü çağrı (CTA) sunar. Bu format, izleyicinin gerçek zamanlı duyguya tepki vermesini sağlar.\n\n### Kanca (Hook) Kullanımı\nReels başarısının ilk 3 saniyesi kritik. “Bu videoyu izlerseniz…” gibi iddialı girişler, izleyiciyi video boyunca tutar. Antalya'da bir otel için “Deniz manzaralı odalarımızı 10 saniyede keşfet” gibi girişler etkili olur. Görsel olarak dikkat çekici bir sahne ile başlanmalıdır.\n\n## CTA ve Dönüşüm Dili\nCTA'nın net olması gerekir: “Rezervasyon için DM”, “Menüyü görmek için bağlantıya tıkla”, “Hemen teklif al”. CTA, videonun sonunda olduğu kadar açıklama bölümünde de yer almalıdır. CTA'lar [Reklam Çalışmaları](/hizmetler/reklam-calismalari) hizmetleriyle birlikte optimize edilmelidir.\n\n## İçerik Planı ve Yayın Sıklığı\nReels içerikleri haftada en az 3 kez yayınlanmalıdır. Antalya'da sezon döneminde bu sayı 5'e çıkarılabilir. İçerik planı dört ana kategoriye bölünmelidir: ürün/hizmet tanıtımı, müşteri deneyimi, ekip arkası ve kampanya çağrısı.\n\n### İdeal Reels Formatı\n- 9:16 dikey format\n- 15-30 saniye uzunluk\n- Altyazı kullanımı\n- Dinamik müzik ve ses\n- Net CTA\n\n## Satışa Dönüşen Reels Örnekleri\nBir kafe için “Günün en çok sipariş edilen tatlısı” içerikleri yüksek dönüşüm sağlar. Bir klinik için “İlk muayene süreci” videoları güven oluşturur. Bu noktada [Fotoğraf Çekimi](/hizmetler/fotograf-cekimi) ve [Prodüksiyon](/hizmetler/produksiyon) hizmetleri, Reels kalitesini artırır.\n\n### Reels İçeriklerinde Hikaye Akışı\nİzleyiciye ürünün yolculuğunu gösterin: hazırlık, sunum ve sonuç. Örneğin bir restoran için “Şefin dokunuşu” temasında hazırlanış süreci Reels formatında paylaşılırsa, kullanıcı ürünle duygusal bağ kurar.\n\n## Performans Analizi ve Optimizasyon\nReels performansını izlemek için izlenme süresi, kaydetme oranı ve profil ziyaretleri ölçülmelidir. Bu metrikler, içerik planını revize etmek için önemli bir veri sağlar. Göre Medya Ajans, haftalık raporlarla Reels performansını değerlendirir.\n\n### Reklamla Destekleme\nOrganik Reels, performansı test etmek için en iyi araçtır. En iyi performans gösteren Reels videoları, Meta Ads kampanyalarında yeniden hedefleme için kullanılmalıdır. Reklam destekli Reels, satışa dönüşen trafiği artırır.\n\n## 2026 için Reels İçerik Takvimi Örneği\n- Pazartesi: Ürün/hizmet tanıtımı\n- Çarşamba: Müşteri yorumları\n- Cuma: Kampanya veya özel teklif\n- Pazar: Ekip arkası veya marka hikayesi\n\n### Ekip ve Süreç Yönetimi\nReels üretimi sürdürülebilir olmalıdır. Haftalık çekim günleri planlanmalı, montaj ve tasarım süreçleri ayrı bir workflow olarak ele alınmalıdır. [Sosyal Medya Yönetimi](/hizmetler/sosyal-medya-yonetimi) paketiyle bu süreç tek noktadan yönetilebilir.\n\n## Sonuç\nReels içerikleri 2026'da satışa dönüşen en etkili formatlardan biri olmaya devam edecek. Antalya'da işletmenizi büyütmek ve yeni müşterilere ulaşmak için Reels stratejinizi doğru planlayın. Göre Medya Ajans ile içerik, prodüksiyon ve reklam yönetimini bir arada yürütmek satışlarınızı artırır.\n\n\n## Stratejik Kontrol Listesi\n- Hedef kitle analizi güncel mi?\n- İçerik hedefleri ve KPI'lar net mi?\n- Görsel dil marka rehberiyle uyumlu mu?\n- Reklam ve organik içerik dengesi sağlandı mı?\n- Haftalık raporlama düzenli mi?\n\n### Ölçümleme ve Sürekli İyileştirme\nBaşarılı bir dijital strateji, düzenli ölçüm ve optimizasyon ister. Haftalık raporlarla erişim, etkileşim ve dönüşüm oranları değerlendirilmelidir. Aylık olarak ise bütçe, reklam performansı ve içerik üretim verimliliği gözden geçirilmelidir. Bu süreç, işletmenin büyüme hedefleriyle sürekli uyum içinde tutulmalıdır.\n\n### Uygulama İçin Kısa Öneriler\n- İçerik üretimini 2 haftalık bloklar halinde planlayın.\n- Fotoğraf ve video çekimlerini sezon öncesinde tamamlayın.\n- Reklam kampanyalarını düşük bütçeli testlerle başlatın.\n- En iyi performans gösteren içerikleri ölçekleyin.\n- Ajans ile aylık strateji toplantıları yapın.\n\n### Antalya Pazarı İçin Ek Notlar\nAntalya'da işletmeler için sezonluk dalgalanmalar stratejiyi etkiler. Yüksek sezon öncesinde görünürlük kampanyaları yapılmalı, düşük sezonda ise marka bağlılığı ve içerik çeşitliliği artırılmalıdır. Yerel etkinlik ve festivallere özel içerikler üretmek marka algısını güçlendirir.\n\n## Sık Sorulan Sorular\n**Bu stratejiler hangi sektörler için uygundur?**\nHizmet, turizm, sağlık, perakende ve eğitim sektörleri için uygundur.\n\n**Ne kadar sürede sonuç alınır?**\nStratejinin kapsamına göre 4-12 hafta arasında ölçülebilir sonuçlar alınabilir.\n\n**Ajans ile çalışmak neden önemlidir?**\nAjanslar, strateji, üretim ve performans süreçlerini tek bir sistemde yönettiği için daha hızlı ve sürdürülebilir sonuç üretir.\n\n## Sonuç ve Özet\nGöre Medya Ajans, Antalya'daki işletmeler için strateji, içerik, prodüksiyon ve reklam yönetimini bir arada sunar. Daha güçlü bir dijital görünürlük ve sürdürülebilir büyüme için doğru planlama ve profesyonel destek şarttır.",
+      "category": "Sosyal Medya",
+      "coverUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&q=80",
+      "seoTitle": "Reels ile Satış Artırma Rehberi",
+      "seoDescription": "Antalya işletmeleri için stratejik pazarlama rehberi ve uygulanabilir adımlar.",
+      "focusKeyword": "Antalya dijital pazarlama",
+      "createdAt": "2024-08-01T10:00:00"
+    },
+    {
+      "id": "post-marka-kimligi-nedir",
+      "title": "Marka Kimliği Nedir? Kurumsal Görünüm Nasıl Güçlenir?",
+      "slug": "marka-kimligi-nedir",
+      "excerpt": "Antalya'da markalar için strateji, içerik üretimi ve performans yönetimi odaklı kapsamlı rehber.",
+      "content": "## Marka Kimliği Nedir?\nMarka kimliği; bir işletmenin müşteriye kendini nasıl hissettirdiğini, nasıl göründüğünü ve nasıl hatırlandığını tanımlar. Logodan renklere, iletişim dilinden görsel tutarlılığa kadar her şey marka kimliğinin parçasıdır. Antalya'daki işletmeler için marka kimliği, turistik ve yerel pazarlarda güven oluşturmanın temelidir.\n\n### Kurumsal Görünümün Bileşenleri\nKurumsal görünüm, logonun doğru kullanımından başlar. Tipografi, renk paleti, ikon setleri ve görsel kompozisyonlar bir bütün olarak düşünülmelidir. [Grafik Tasarım](/hizmetler/grafik-tasarim) hizmeti, bu bileşenleri tek bir sistemde toplar.\n\n## Marka Kimliği Nasıl Güçlenir?\nMarka kimliğini güçlendirmek için 3 ana aşama vardır:\n1. Marka konumlandırması ve değer önerisi\n2. Görsel dil ve tasarım sistemi\n3. İletişim dili ve içerik stratejisi\n\n### Değer Önerisi Oluşturma\nDeğer önerisi, “Neden bizi seçmeliler?” sorusuna verilen net yanıttır. Antalya'da rekabetin yoğun olduğu sektörlerde, değer önerisi markayı öne çıkarır. Bu değer önerisi, web sitesinde ve sosyal medya içeriklerinde net şekilde ifade edilmelidir.\n\n## Tasarım Sistemi ve Tutarlılık\nTutarlılık, marka kimliğinin güven unsurudur. Logo, renk ve fontlar her platformda aynı standartta kullanılmalıdır. Web sitesi ve sosyal medya tasarımları birbirini tamamlamalıdır. Bu noktada [Web Site Tasarımı](/hizmetler/web-site-tasarimi) ve [Grafik Tasarım](/hizmetler/grafik-tasarim) hizmetleri aynı stratejiye bağlanmalıdır.\n\n### İçerik Dili ve Tonu\nMarka dili, hedef kitleye hitap eden bir ses tonudur. Örneğin sağlık sektöründe güven ve uzmanlık vurgusu öne çıkar, turizmde ise deneyim ve keyif ön plandadır. İçerik dili belirlenmeden sosyal medya yönetimi etkili olmaz.\n\n## Kurumsal Kimlikte Sık Yapılan Hatalar\n- Her platformda farklı logo kullanımı\n- Tasarım şablonlarının tutarsız olması\n- Mesaj dilinde süreklilik olmaması\n- Fotoğraf ve video kalitesinde dengesizlik\n\n### Görsel Kalitenin Önemi\nMarkanın profesyonel görünmesi için fotoğraf ve video kalitesi kritik rol oynar. Profesyonel [Fotoğraf Çekimi](/hizmetler/fotograf-cekimi) ve [Prodüksiyon](/hizmetler/produksiyon) hizmetleri bu noktada fark yaratır.\n\n## Kurumsal Kimlik ve Dijital Pazarlama\nMarka kimliği sadece görsel değildir; dijital pazarlama kampanyalarının dili ve vaadi de markanın kimliğini besler. Örneğin reklam kampanyalarında kullanılan sloganlar, marka değerleriyle uyumlu olmalıdır. Aksi halde marka güveni zedelenir.\n\n### Marka Kimliğini Dijitalde Güçlendirme Adımları\n1. Marka rehberi oluşturma\n2. Sosyal medya içerik şablonları\n3. Web sitesi UI/UX optimizasyonu\n4. Reklam görsel ve metin tutarlılığı\n\n## Antalya Özelinde Marka Kimliği Stratejisi\nAntalya gibi turizm odaklı bir şehirde marka kimliği, ulusal ve uluslararası kitlelere hitap etmelidir. Çok dilli içerik seçenekleri, kültürel hassasiyet ve sezonluk kampanya dili önemlidir. Göre Medya Ajans olarak markaların bu ihtiyaçlarına göre özelleştirilmiş kimlik paketleri sunuyoruz.\n\n## Sonuç\nMarka kimliği, işletmenizin uzun vadeli değerini belirleyen temel unsurdur. Antalya'da rekabetin yoğun olduğu pazarda ayırt edici bir marka kimliği oluşturmak için profesyonel bir tasarım ve iletişim stratejisine ihtiyaç vardır. Göre Medya Ajans, markanızın görsel ve içerik dilini tek bir sistemde güçlendirerek sizi öne çıkarır.\n\n\n## Stratejik Kontrol Listesi\n- Hedef kitle analizi güncel mi?\n- İçerik hedefleri ve KPI'lar net mi?\n- Görsel dil marka rehberiyle uyumlu mu?\n- Reklam ve organik içerik dengesi sağlandı mı?\n- Haftalık raporlama düzenli mi?\n\n### Ölçümleme ve Sürekli İyileştirme\nBaşarılı bir dijital strateji, düzenli ölçüm ve optimizasyon ister. Haftalık raporlarla erişim, etkileşim ve dönüşüm oranları değerlendirilmelidir. Aylık olarak ise bütçe, reklam performansı ve içerik üretim verimliliği gözden geçirilmelidir. Bu süreç, işletmenin büyüme hedefleriyle sürekli uyum içinde tutulmalıdır.\n\n### Uygulama İçin Kısa Öneriler\n- İçerik üretimini 2 haftalık bloklar halinde planlayın.\n- Fotoğraf ve video çekimlerini sezon öncesinde tamamlayın.\n- Reklam kampanyalarını düşük bütçeli testlerle başlatın.\n- En iyi performans gösteren içerikleri ölçekleyin.\n- Ajans ile aylık strateji toplantıları yapın.\n\n### Antalya Pazarı İçin Ek Notlar\nAntalya'da işletmeler için sezonluk dalgalanmalar stratejiyi etkiler. Yüksek sezon öncesinde görünürlük kampanyaları yapılmalı, düşük sezonda ise marka bağlılığı ve içerik çeşitliliği artırılmalıdır. Yerel etkinlik ve festivallere özel içerikler üretmek marka algısını güçlendirir.\n\n## Sık Sorulan Sorular\n**Bu stratejiler hangi sektörler için uygundur?**\nHizmet, turizm, sağlık, perakende ve eğitim sektörleri için uygundur.\n\n**Ne kadar sürede sonuç alınır?**\nStratejinin kapsamına göre 4-12 hafta arasında ölçülebilir sonuçlar alınabilir.\n\n**Ajans ile çalışmak neden önemlidir?**\nAjanslar, strateji, üretim ve performans süreçlerini tek bir sistemde yönettiği için daha hızlı ve sürdürülebilir sonuç üretir.\n\n## Sonuç ve Özet\nGöre Medya Ajans, Antalya'daki işletmeler için strateji, içerik, prodüksiyon ve reklam yönetimini bir arada sunar. Daha güçlü bir dijital görünürlük ve sürdürülebilir büyüme için doğru planlama ve profesyonel destek şarttır.",
+      "category": "Marka",
+      "coverUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&q=80",
+      "seoTitle": "Marka Kimliği ve Kurumsal Görünüm",
+      "seoDescription": "Antalya işletmeleri için stratejik pazarlama rehberi ve uygulanabilir adımlar.",
+      "focusKeyword": "Antalya dijital pazarlama",
+      "createdAt": "2024-08-01T10:00:00"
+    },
+    {
+      "id": "post-google-ads-mi-meta-ads-mi",
+      "title": "Google Ads mi Meta Ads mi? Hangi İşletmeye Hangisi?",
+      "slug": "google-ads-mi-meta-ads-mi",
+      "excerpt": "Antalya'da markalar için strateji, içerik üretimi ve performans yönetimi odaklı kapsamlı rehber.",
+      "content": "## Google Ads mi Meta Ads mi? Hangisi Daha Etkili?\nGoogle Ads ve Meta Ads arasında seçim yapmak, hedef kitle davranışına ve işletmenin hedeflerine bağlıdır. Antalya'daki işletmeler için her iki platform da farklı amaçlar için kullanılır. Google Ads, arama niyeti yüksek kullanıcıları yakalamada güçlüdür, Meta Ads ise keşif ve ilgi yaratmada etkilidir.\n\n### Google Ads Avantajları\n- Arama niyetine dayalı hedefleme\n- Yüksek dönüşüm oranı\n- Hızlı sonuç alma\n- Yerel arama görünürlüğü\n\n### Meta Ads Avantajları\n- Görsel ve video içerikle dikkat çekme\n- Kitle segmentasyonu\n- Remarketing (yeniden hedefleme)\n- Marka bilinirliği artırma\n\n## Hangi İşletme için Hangi Platform?\nHizmet odaklı işletmeler için Google Ads daha hızlı dönüşüm sağlar. Örneğin “Antalya diş kliniği” araması yapan kullanıcılar satın almaya daha yakındır. Öte yandan turizm veya yaşam tarzı markaları için Meta Ads daha etkili olabilir, çünkü görsel odaklı içerikler bu markaların hikayesini anlatır.\n\n### Kombine Strateji\nEn iyi sonuçlar çoğu zaman iki platformun kombinasyonu ile alınır. Meta Ads ile keşif ve ilgi, Google Ads ile dönüşüm sağlanır. Bu noktada Göre Medya Ajans'ın [Reklam Çalışmaları](/hizmetler/reklam-calismalari) hizmeti, bütçeyi iki platform arasında optimize eder.\n\n## Bütçe ve KPI Yönetimi\nReklam bütçesi belirlenirken hedef KPI'lar netleşmelidir: tıklama başı maliyet (CPC), dönüşüm oranı ve reklam yatırım getirisi (ROAS). Antalya'daki işletmeler için sezonluk kampanyalar dikkate alınarak bütçe planı oluşturulmalıdır.\n\n### Reklam Metinleri ve Görsel Dil\nGoogle Ads metinleri net ve kısa olmalıdır, Meta Ads içeriklerinde ise görsel hikaye güçlü olmalıdır. Görsel dilin [Grafik Tasarım](/hizmetler/grafik-tasarim) ve [Prodüksiyon](/hizmetler/produksiyon) ile desteklenmesi önemlidir.\n\n## Remarketing ve Yeniden Hedefleme\nReklamların dönüşüm oranı, remarketing kampanyalarıyla artırılır. Web sitesini ziyaret eden ama dönüşüm yapmayan kullanıcılar için yeniden hedefleme yapılmalıdır. Bu yöntem, reklam bütçesinin verimliliğini yükseltir.\n\n### Antalya Pazarı için Öneriler\n- Yerel anahtar kelimelerde Google Ads\n- Instagram ve Facebook'ta kampanya odaklı Reels reklamları\n- Google Business Profile ile yerel görünürlük\n\n## Sonuç\nGoogle Ads ve Meta Ads arasında seçim yapmak yerine, işletme hedeflerine uygun şekilde iki platformu birlikte kullanmak en yüksek verimi sağlar. Göre Medya Ajans, Antalya'daki işletmeler için hedef odaklı reklam stratejileri geliştirir.\n\n\n## Stratejik Kontrol Listesi\n- Hedef kitle analizi güncel mi?\n- İçerik hedefleri ve KPI'lar net mi?\n- Görsel dil marka rehberiyle uyumlu mu?\n- Reklam ve organik içerik dengesi sağlandı mı?\n- Haftalık raporlama düzenli mi?\n\n### Ölçümleme ve Sürekli İyileştirme\nBaşarılı bir dijital strateji, düzenli ölçüm ve optimizasyon ister. Haftalık raporlarla erişim, etkileşim ve dönüşüm oranları değerlendirilmelidir. Aylık olarak ise bütçe, reklam performansı ve içerik üretim verimliliği gözden geçirilmelidir. Bu süreç, işletmenin büyüme hedefleriyle sürekli uyum içinde tutulmalıdır.\n\n### Uygulama İçin Kısa Öneriler\n- İçerik üretimini 2 haftalık bloklar halinde planlayın.\n- Fotoğraf ve video çekimlerini sezon öncesinde tamamlayın.\n- Reklam kampanyalarını düşük bütçeli testlerle başlatın.\n- En iyi performans gösteren içerikleri ölçekleyin.\n- Ajans ile aylık strateji toplantıları yapın.\n\n### Antalya Pazarı İçin Ek Notlar\nAntalya'da işletmeler için sezonluk dalgalanmalar stratejiyi etkiler. Yüksek sezon öncesinde görünürlük kampanyaları yapılmalı, düşük sezonda ise marka bağlılığı ve içerik çeşitliliği artırılmalıdır. Yerel etkinlik ve festivallere özel içerikler üretmek marka algısını güçlendirir.\n\n## Sık Sorulan Sorular\n**Bu stratejiler hangi sektörler için uygundur?**\nHizmet, turizm, sağlık, perakende ve eğitim sektörleri için uygundur.\n\n**Ne kadar sürede sonuç alınır?**\nStratejinin kapsamına göre 4-12 hafta arasında ölçülebilir sonuçlar alınabilir.\n\n**Ajans ile çalışmak neden önemlidir?**\nAjanslar, strateji, üretim ve performans süreçlerini tek bir sistemde yönettiği için daha hızlı ve sürdürülebilir sonuç üretir.\n\n## Sonuç ve Özet\nGöre Medya Ajans, Antalya'daki işletmeler için strateji, içerik, prodüksiyon ve reklam yönetimini bir arada sunar. Daha güçlü bir dijital görünürlük ve sürdürülebilir büyüme için doğru planlama ve profesyonel destek şarttır.",
+      "category": "Dijital Pazarlama",
+      "coverUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&q=80",
+      "seoTitle": "Google Ads mi Meta Ads mi?",
+      "seoDescription": "Antalya işletmeleri için stratejik pazarlama rehberi ve uygulanabilir adımlar.",
+      "focusKeyword": "Antalya dijital pazarlama",
+      "createdAt": "2024-08-01T10:00:00"
+    },
+    {
+      "id": "post-kurumsal-web-sitesi-seo-temelleri",
+      "title": "Kurumsal Web Sitesi SEO Temelleri: Hız, Yapı, İçerik",
+      "slug": "kurumsal-web-sitesi-seo-temelleri",
+      "excerpt": "Antalya'da markalar için strateji, içerik üretimi ve performans yönetimi odaklı kapsamlı rehber.",
+      "content": "## Kurumsal Web Sitesi SEO Temelleri\nKurumsal web sitesi, markanın dijital vitrini olduğu kadar SEO performansının da temelidir. Antalya'daki işletmeler için yerel arama sonuçlarında üst sıralarda yer almak, güven ve satış açısından kritiktir. SEO temelleri; hız, yapı ve içerik üçgeninde değerlendirilir.\n\n### Hız Optimizasyonu\nWeb sitenizin hızlı açılması, kullanıcı deneyimi kadar SEO sıralaması için de önemlidir. Görsel boyutlandırma, CDN kullanımı ve kod optimizasyonu hız performansını artırır. [Web Site Tasarımı](/hizmetler/web-site-tasarimi) hizmeti, performans odaklı yapı kurar.\n\n## Site Yapısı ve Navigasyon\nSEO için net bir site mimarisi gerekir. Ana sayfa, hizmet sayfaları, blog ve iletişim sayfaları arasında güçlü iç linkler oluşturulmalıdır. Kullanıcı her sayfadan kolayca diğerine ulaşabilmelidir.\n\n### İçerik Stratejisi\nSEO içerikleri, kullanıcı sorularına net cevaplar vermelidir. Blog yazıları, hizmet sayfalarıyla bağlanmalı ve her içerikte CTA bulunmalıdır. Örneğin blog yazılarında [Sosyal Medya Yönetimi](/hizmetler/sosyal-medya-yonetimi) hizmetine yönlendirme yapılmalıdır.\n\n## Teknik SEO\nTeknik SEO, sayfa başlıkları, meta açıklamalar, robots.txt ve sitemap gibi unsurları içerir. Ayrıca mobil uyumluluk ve SSL sertifikası da temel gerekliliktir.\n\n### Yerel SEO ve Antalya\nAntalya'da işletmeler için Google Business Profile optimizasyonu yapılmalı, işletme adı, adresi ve telefon bilgileri tutarlı olmalıdır. Yerel anahtar kelimeler içeriklerde kullanılmalıdır.\n\n## İç Linkleme ve Kullanıcı Yolculuğu\nİç linkleme, kullanıcıların sitenizde daha uzun süre kalmasını sağlar. Blog yazılarının hizmet sayfalarına bağlanması SEO açısından önemlidir. Bu bağlamda her blog içeriği en az 2 hizmet sayfasına yönlendirme içermelidir.\n\n### Örnek İçerik Takvimi\n- Haftada 1 blog yazısı\n- Aylık hizmet sayfası güncellemesi\n- Aylık SEO performans raporu\n\n## Sonuç\nKurumsal web sitesi SEO temelleri, Antalya'da yerel görünürlüğü artırmak için kritik bir yatırımdır. Göre Medya Ajans, web tasarım ve SEO stratejisini bir arada sunarak markanızı dijitalde güçlendirir.\n\n\n## Stratejik Kontrol Listesi\n- Hedef kitle analizi güncel mi?\n- İçerik hedefleri ve KPI'lar net mi?\n- Görsel dil marka rehberiyle uyumlu mu?\n- Reklam ve organik içerik dengesi sağlandı mı?\n- Haftalık raporlama düzenli mi?\n\n### Ölçümleme ve Sürekli İyileştirme\nBaşarılı bir dijital strateji, düzenli ölçüm ve optimizasyon ister. Haftalık raporlarla erişim, etkileşim ve dönüşüm oranları değerlendirilmelidir. Aylık olarak ise bütçe, reklam performansı ve içerik üretim verimliliği gözden geçirilmelidir. Bu süreç, işletmenin büyüme hedefleriyle sürekli uyum içinde tutulmalıdır.\n\n### Uygulama İçin Kısa Öneriler\n- İçerik üretimini 2 haftalık bloklar halinde planlayın.\n- Fotoğraf ve video çekimlerini sezon öncesinde tamamlayın.\n- Reklam kampanyalarını düşük bütçeli testlerle başlatın.\n- En iyi performans gösteren içerikleri ölçekleyin.\n- Ajans ile aylık strateji toplantıları yapın.\n\n### Antalya Pazarı İçin Ek Notlar\nAntalya'da işletmeler için sezonluk dalgalanmalar stratejiyi etkiler. Yüksek sezon öncesinde görünürlük kampanyaları yapılmalı, düşük sezonda ise marka bağlılığı ve içerik çeşitliliği artırılmalıdır. Yerel etkinlik ve festivallere özel içerikler üretmek marka algısını güçlendirir.\n\n## Sık Sorulan Sorular\n**Bu stratejiler hangi sektörler için uygundur?**\nHizmet, turizm, sağlık, perakende ve eğitim sektörleri için uygundur.\n\n**Ne kadar sürede sonuç alınır?**\nStratejinin kapsamına göre 4-12 hafta arasında ölçülebilir sonuçlar alınabilir.\n\n**Ajans ile çalışmak neden önemlidir?**\nAjanslar, strateji, üretim ve performans süreçlerini tek bir sistemde yönettiği için daha hızlı ve sürdürülebilir sonuç üretir.\n\n## Sonuç ve Özet\nGöre Medya Ajans, Antalya'daki işletmeler için strateji, içerik, prodüksiyon ve reklam yönetimini bir arada sunar. Daha güçlü bir dijital görünürlük ve sürdürülebilir büyüme için doğru planlama ve profesyonel destek şarttır.",
+      "category": "SEO",
+      "coverUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&q=80",
+      "seoTitle": "Kurumsal Web Sitesi SEO Temelleri",
+      "seoDescription": "Antalya işletmeleri için stratejik pazarlama rehberi ve uygulanabilir adımlar.",
+      "focusKeyword": "Antalya dijital pazarlama",
+      "createdAt": "2024-08-01T10:00:00"
+    },
+    {
+      "id": "post-ajansla-calisirken-brief",
+      "title": "Ajansla Çalışırken Brief Nasıl Hazırlanır?",
+      "slug": "ajansla-calisirken-brief",
+      "excerpt": "Antalya'da markalar için strateji, içerik üretimi ve performans yönetimi odaklı kapsamlı rehber.",
+      "content": "## Ajansla Çalışırken Brief Nasıl Hazırlanır?\nİyi bir brief, ajans ve marka arasındaki iş birliğinin temelidir. Antalya'da işletmeler için doğru brief hazırlamak, zaman ve bütçe tasarrufu sağlar. Brief; hedef, kapsam, bütçe, zaman planı ve beklentiler gibi başlıkları içermelidir.\n\n### Hedef Tanımı\nHedeflerin net olması, ajansın doğru strateji geliştirmesi için gereklidir. Örneğin; sosyal medya yönetimi için hedef “takipçi artırmak” yerine “aylık 1200 yeni ziyaretçi” olarak ifade edilmelidir.\n\n## Brief İçeriğinde Olması Gerekenler\n1. Marka özeti ve sektör bilgisi\n2. Hedef kitle profili\n3. Ana hedef ve KPI'lar\n4. Rakip analizi\n5. Zaman planı ve bütçe\n\n### Marka Dili ve Görsel Kimlik\nAjansın doğru tasarım üretmesi için marka kimliği paylaşılmalıdır. Logo kullanımı, renk paleti ve tonlama rehberi brief'e eklenmelidir. [Grafik Tasarım](/hizmetler/grafik-tasarim) çalışmaları için bu bilgiler kritiktir.\n\n## Ajansla İletişim Süreci\nBrief teslim edildikten sonra haftalık veya iki haftalık toplantılar planlanmalıdır. Bu süreçte raporlama ve revizyon süreçleri netleştirilmelidir. Göre Medya Ajans, süreçleri şeffaf ve planlı yürütmeyi hedefler.\n\n### Beklentilerin Gerçekçi Olması\nHedeflerin gerçekçi olması, ajans ve marka arasındaki güveni artırır. Örneğin 1 ayda %300 satış artışı gibi hedefler yerine sürdürülebilir büyüme hedefleri belirlenmelidir.\n\n## Brief Şablonu Önerisi\n- Marka ve ürün bilgisi\n- Hedef kitle\n- Hedef KPI'lar\n- İçerik ve medya ihtiyaçları\n- Süre ve bütçe\n- Örnek çalışmalar\n\n## Sonuç\nAjansla çalışırken doğru brief hazırlamak, başarılı bir proje için ilk adımdır. Göre Medya Ajans ile çalışırken ihtiyaçlarınızı netleştirerek daha hızlı ve etkili sonuçlar elde edebilirsiniz.\n\n\n## Stratejik Kontrol Listesi\n- Hedef kitle analizi güncel mi?\n- İçerik hedefleri ve KPI'lar net mi?\n- Görsel dil marka rehberiyle uyumlu mu?\n- Reklam ve organik içerik dengesi sağlandı mı?\n- Haftalık raporlama düzenli mi?\n\n### Ölçümleme ve Sürekli İyileştirme\nBaşarılı bir dijital strateji, düzenli ölçüm ve optimizasyon ister. Haftalık raporlarla erişim, etkileşim ve dönüşüm oranları değerlendirilmelidir. Aylık olarak ise bütçe, reklam performansı ve içerik üretim verimliliği gözden geçirilmelidir. Bu süreç, işletmenin büyüme hedefleriyle sürekli uyum içinde tutulmalıdır.\n\n### Uygulama İçin Kısa Öneriler\n- İçerik üretimini 2 haftalık bloklar halinde planlayın.\n- Fotoğraf ve video çekimlerini sezon öncesinde tamamlayın.\n- Reklam kampanyalarını düşük bütçeli testlerle başlatın.\n- En iyi performans gösteren içerikleri ölçekleyin.\n- Ajans ile aylık strateji toplantıları yapın.\n\n### Antalya Pazarı İçin Ek Notlar\nAntalya'da işletmeler için sezonluk dalgalanmalar stratejiyi etkiler. Yüksek sezon öncesinde görünürlük kampanyaları yapılmalı, düşük sezonda ise marka bağlılığı ve içerik çeşitliliği artırılmalıdır. Yerel etkinlik ve festivallere özel içerikler üretmek marka algısını güçlendirir.\n\n## Sık Sorulan Sorular\n**Bu stratejiler hangi sektörler için uygundur?**\nHizmet, turizm, sağlık, perakende ve eğitim sektörleri için uygundur.\n\n**Ne kadar sürede sonuç alınır?**\nStratejinin kapsamına göre 4-12 hafta arasında ölçülebilir sonuçlar alınabilir.\n\n**Ajans ile çalışmak neden önemlidir?**\nAjanslar, strateji, üretim ve performans süreçlerini tek bir sistemde yönettiği için daha hızlı ve sürdürülebilir sonuç üretir.\n\n## Sonuç ve Özet\nGöre Medya Ajans, Antalya'daki işletmeler için strateji, içerik, prodüksiyon ve reklam yönetimini bir arada sunar. Daha güçlü bir dijital görünürlük ve sürdürülebilir büyüme için doğru planlama ve profesyonel destek şarttır.",
+      "category": "Ajans Rehberi",
+      "coverUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&q=80",
+      "seoTitle": "Ajans Brief Hazırlama Rehberi",
+      "seoDescription": "Antalya işletmeleri için stratejik pazarlama rehberi ve uygulanabilir adımlar.",
+      "focusKeyword": "Antalya dijital pazarlama",
+      "createdAt": "2024-08-01T10:00:00"
+    },
+    {
+      "id": "post-fotograf-cekimi-ile-guven",
+      "title": "Fotoğraf Çekimi ile Güven Artırma: Ürün, Mekân, Portre",
+      "slug": "fotograf-cekimi-ile-guven",
+      "excerpt": "Antalya'da markalar için strateji, içerik üretimi ve performans yönetimi odaklı kapsamlı rehber.",
+      "content": "## Fotoğraf Çekimi ile Güven Artırma\nProfesyonel fotoğraf çekimleri, markanın güven algısını artıran en güçlü araçlardan biridir. Antalya'da işletmeler için özellikle ürün, mekan ve portre çekimleri kritik rol oynar. Bir müşteri, işletmenizi ilk kez görürken fotoğraflar üzerinden karar verir.\n\n### Ürün Çekimleri\nÜrün çekimlerinde ışık, açı ve arka plan seçimi önemlidir. Ürün fotoğraflarının net ve doğal olması, müşterinin ürün hakkında güven duymasını sağlar. Bu süreçte [Fotoğraf Çekimi](/hizmetler/fotograf-cekimi) hizmetleri devreye girer.\n\n## Mekan Çekimleri\nMekan çekimleri, özellikle turizm ve restoran sektörlerinde etki yaratır. Antalya'daki işletmeler için gün ışığı kullanımı, mekanın ferahlığını vurgulamak için önemlidir. Mekanın atmosferi doğru yansıtıldığında müşteri güveni artar.\n\n### Portre Çekimleri\nEkip ve yönetici portreleri, markaya insan dokunuşu katar. Kullanıcı, ekibi gördüğünde markayı daha samimi algılar. Bu tür çekimler, kurumsal iletişim dilini güçlendirir.\n\n## Fotoğraf ve Dijital Pazarlama\nFotoğraflar, sosyal medya ve web sitesi içeriklerinde dönüşüm oranını artırır. Güçlü görseller, [Sosyal Medya Yönetimi](/hizmetler/sosyal-medya-yonetimi) kampanyalarında etkileşimi yükseltir.\n\n### Güven Oluşturan Detaylar\n- Gerçek mekanda çekim\n- Doğal ışık kullanımı\n- Çalışanların doğal pozları\n- Ürünlerin detay çekimleri\n\n## Fotoğraf Çekimi Süreci\n1. Konsept belirleme\n2. Çekim planı hazırlama\n3. Çekim ve post-prodüksiyon\n4. Dijital platformlarda yayınlama\n\n## Sonuç\nFotoğraf çekimi, markanın güven inşa sürecinde vazgeçilmezdir. Göre Medya Ajans, Antalya'da işletmelere profesyonel fotoğraf çekimi hizmetleri sunarak markaların daha güçlü görünmesini sağlar.\n\n\n## Stratejik Kontrol Listesi\n- Hedef kitle analizi güncel mi?\n- İçerik hedefleri ve KPI'lar net mi?\n- Görsel dil marka rehberiyle uyumlu mu?\n- Reklam ve organik içerik dengesi sağlandı mı?\n- Haftalık raporlama düzenli mi?\n\n### Ölçümleme ve Sürekli İyileştirme\nBaşarılı bir dijital strateji, düzenli ölçüm ve optimizasyon ister. Haftalık raporlarla erişim, etkileşim ve dönüşüm oranları değerlendirilmelidir. Aylık olarak ise bütçe, reklam performansı ve içerik üretim verimliliği gözden geçirilmelidir. Bu süreç, işletmenin büyüme hedefleriyle sürekli uyum içinde tutulmalıdır.\n\n### Uygulama İçin Kısa Öneriler\n- İçerik üretimini 2 haftalık bloklar halinde planlayın.\n- Fotoğraf ve video çekimlerini sezon öncesinde tamamlayın.\n- Reklam kampanyalarını düşük bütçeli testlerle başlatın.\n- En iyi performans gösteren içerikleri ölçekleyin.\n- Ajans ile aylık strateji toplantıları yapın.\n\n### Antalya Pazarı İçin Ek Notlar\nAntalya'da işletmeler için sezonluk dalgalanmalar stratejiyi etkiler. Yüksek sezon öncesinde görünürlük kampanyaları yapılmalı, düşük sezonda ise marka bağlılığı ve içerik çeşitliliği artırılmalıdır. Yerel etkinlik ve festivallere özel içerikler üretmek marka algısını güçlendirir.\n\n## Sık Sorulan Sorular\n**Bu stratejiler hangi sektörler için uygundur?**\nHizmet, turizm, sağlık, perakende ve eğitim sektörleri için uygundur.\n\n**Ne kadar sürede sonuç alınır?**\nStratejinin kapsamına göre 4-12 hafta arasında ölçülebilir sonuçlar alınabilir.\n\n**Ajans ile çalışmak neden önemlidir?**\nAjanslar, strateji, üretim ve performans süreçlerini tek bir sistemde yönettiği için daha hızlı ve sürdürülebilir sonuç üretir.\n\n## Sonuç ve Özet\nGöre Medya Ajans, Antalya'daki işletmeler için strateji, içerik, prodüksiyon ve reklam yönetimini bir arada sunar. Daha güçlü bir dijital görünürlük ve sürdürülebilir büyüme için doğru planlama ve profesyonel destek şarttır.",
+      "category": "Prodüksiyon",
+      "coverUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&q=80",
+      "seoTitle": "Fotoğraf Çekimi ile Güven Artırma",
+      "seoDescription": "Antalya işletmeleri için stratejik pazarlama rehberi ve uygulanabilir adımlar.",
+      "focusKeyword": "Antalya dijital pazarlama",
+      "createdAt": "2024-08-01T10:00:00"
+    },
+    {
+      "id": "post-produksiyon-sureci",
+      "title": "Prodüksiyon Süreci: Senaryo–Çekim–Kurgu–Yayın",
+      "slug": "produksiyon-sureci",
+      "excerpt": "Antalya'da markalar için strateji, içerik üretimi ve performans yönetimi odaklı kapsamlı rehber.",
+      "content": "## Prodüksiyon Süreci: Senaryo – Çekim – Kurgu – Yayın\nProdüksiyon süreci, markanın hikayesini güçlü bir şekilde anlatmanın en etkili yoludur. Antalya'daki işletmeler için profesyonel video içerikler, markayı bir üst seviyeye taşır. Prodüksiyon; senaryo, çekim, kurgu ve yayın aşamalarından oluşur.\n\n### Senaryo Yazımı\nHer prodüksiyon süreci güçlü bir senaryo ile başlar. Senaryo, markanın mesajını netleştirir. Bu aşamada hedef kitleye uygun mesaj tonu belirlenir.\n\n## Çekim Aşaması\nÇekimlerde kullanılan ekipman, ışık ve mekan seçimi video kalitesini belirler. Antalya'nın doğal ışığı, turizm ve yaşam tarzı markaları için büyük avantajdır.\n\n### Kurgu ve Post-Prodüksiyon\nKurgu aşaması, videoya ritim ve duygu katar. Müzik, geçişler ve grafikler burada eklenir. [Grafik Tasarım](/hizmetler/grafik-tasarim) desteğiyle video daha güçlü hale gelir.\n\n## Yayın ve Dağıtım\nVideo içeriğin nerede yayınlanacağı belirlenmelidir: sosyal medya, web sitesi veya reklam kampanyaları. Videonun dağıtımı, [Reklam Çalışmaları](/hizmetler/reklam-calismalari) ile desteklendiğinde daha geniş kitlelere ulaşır.\n\n### Prodüksiyonun Markaya Katkısı\n- Güven ve profesyonellik algısı\n- Duygusal bağ kurma\n- Reklam performansında artış\n\n## Sonuç\nProdüksiyon süreci, markanızın hikayesini güçlü anlatmak için kritik bir yatırımdır. Göre Medya Ajans, senaryodan yayın sürecine kadar tüm prodüksiyon aşamalarını yönetir.\n\n\n## Stratejik Kontrol Listesi\n- Hedef kitle analizi güncel mi?\n- İçerik hedefleri ve KPI'lar net mi?\n- Görsel dil marka rehberiyle uyumlu mu?\n- Reklam ve organik içerik dengesi sağlandı mı?\n- Haftalık raporlama düzenli mi?\n\n### Ölçümleme ve Sürekli İyileştirme\nBaşarılı bir dijital strateji, düzenli ölçüm ve optimizasyon ister. Haftalık raporlarla erişim, etkileşim ve dönüşüm oranları değerlendirilmelidir. Aylık olarak ise bütçe, reklam performansı ve içerik üretim verimliliği gözden geçirilmelidir. Bu süreç, işletmenin büyüme hedefleriyle sürekli uyum içinde tutulmalıdır.\n\n### Uygulama İçin Kısa Öneriler\n- İçerik üretimini 2 haftalık bloklar halinde planlayın.\n- Fotoğraf ve video çekimlerini sezon öncesinde tamamlayın.\n- Reklam kampanyalarını düşük bütçeli testlerle başlatın.\n- En iyi performans gösteren içerikleri ölçekleyin.\n- Ajans ile aylık strateji toplantıları yapın.\n\n### Antalya Pazarı İçin Ek Notlar\nAntalya'da işletmeler için sezonluk dalgalanmalar stratejiyi etkiler. Yüksek sezon öncesinde görünürlük kampanyaları yapılmalı, düşük sezonda ise marka bağlılığı ve içerik çeşitliliği artırılmalıdır. Yerel etkinlik ve festivallere özel içerikler üretmek marka algısını güçlendirir.\n\n## Sık Sorulan Sorular\n**Bu stratejiler hangi sektörler için uygundur?**\nHizmet, turizm, sağlık, perakende ve eğitim sektörleri için uygundur.\n\n**Ne kadar sürede sonuç alınır?**\nStratejinin kapsamına göre 4-12 hafta arasında ölçülebilir sonuçlar alınabilir.\n\n**Ajans ile çalışmak neden önemlidir?**\nAjanslar, strateji, üretim ve performans süreçlerini tek bir sistemde yönettiği için daha hızlı ve sürdürülebilir sonuç üretir.\n\n## Sonuç ve Özet\nGöre Medya Ajans, Antalya'daki işletmeler için strateji, içerik, prodüksiyon ve reklam yönetimini bir arada sunar. Daha güçlü bir dijital görünürlük ve sürdürülebilir büyüme için doğru planlama ve profesyonel destek şarttır.",
+      "category": "Prodüksiyon",
+      "coverUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&q=80",
+      "seoTitle": "Prodüksiyon Süreci Rehberi",
+      "seoDescription": "Antalya işletmeleri için stratejik pazarlama rehberi ve uygulanabilir adımlar.",
+      "focusKeyword": "Antalya dijital pazarlama",
+      "createdAt": "2024-08-01T10:00:00"
+    },
+    {
+      "id": "post-yerel-seo-google-business",
+      "title": "Yerel SEO: Google Business Profile ile Haritalarda Yükselme",
+      "slug": "yerel-seo-google-business",
+      "excerpt": "Antalya'da markalar için strateji, içerik üretimi ve performans yönetimi odaklı kapsamlı rehber.",
+      "content": "## Yerel SEO ve Google Business Profile\nYerel SEO, Antalya'daki işletmeler için dijital görünürlüğün anahtarıdır. Google Business Profile (GBP), işletmenin haritalarda öne çıkmasını sağlar. Doğru optimize edilmiş bir GBP sayfası, arama sonuçlarında daha üst sıralarda görünür.\n\n### Google Business Profile Optimizasyonu\n- İşletme adı, adres ve telefon bilgileri güncel olmalı\n- Fotoğraf ve video içerikleri düzenli eklenmeli\n- Müşteri yorumları cevaplanmalı\n\n## Yerel Anahtar Kelimeler\nAntalya odaklı anahtar kelimeler, blog ve hizmet sayfalarında kullanılmalıdır. Örneğin “Antalya reklam ajansı” veya “Antalya sosyal medya yönetimi”. Bu içerikler [Web Site Tasarımı](/hizmetler/web-site-tasarimi) sürecinde doğru yapılandırılmalıdır.\n\n### Haritalarda Yükselme Stratejisi\n- Haftalık güncelleme\n- Yerel etkinlik paylaşımları\n- Q&A bölümünün aktif kullanımı\n\n## Müşteri Yorumları ve Güven\nYorum yönetimi, yerel SEO'nun en güçlü unsurlarındandır. Pozitif yorumlar işletmeye güven kazandırır. Ayrıca düzenli yorum almak için müşterilere küçük hatırlatmalar yapılmalıdır.\n\n## Sonuç\nYerel SEO ve Google Business Profile optimizasyonu, Antalya'da işletmelerin haritalarda daha görünür olmasını sağlar. Göre Medya Ajans ile yerel SEO stratejinizi güçlendirebilirsiniz.\n\n\n## Stratejik Kontrol Listesi\n- Hedef kitle analizi güncel mi?\n- İçerik hedefleri ve KPI'lar net mi?\n- Görsel dil marka rehberiyle uyumlu mu?\n- Reklam ve organik içerik dengesi sağlandı mı?\n- Haftalık raporlama düzenli mi?\n\n### Ölçümleme ve Sürekli İyileştirme\nBaşarılı bir dijital strateji, düzenli ölçüm ve optimizasyon ister. Haftalık raporlarla erişim, etkileşim ve dönüşüm oranları değerlendirilmelidir. Aylık olarak ise bütçe, reklam performansı ve içerik üretim verimliliği gözden geçirilmelidir. Bu süreç, işletmenin büyüme hedefleriyle sürekli uyum içinde tutulmalıdır.\n\n### Uygulama İçin Kısa Öneriler\n- İçerik üretimini 2 haftalık bloklar halinde planlayın.\n- Fotoğraf ve video çekimlerini sezon öncesinde tamamlayın.\n- Reklam kampanyalarını düşük bütçeli testlerle başlatın.\n- En iyi performans gösteren içerikleri ölçekleyin.\n- Ajans ile aylık strateji toplantıları yapın.\n\n### Antalya Pazarı İçin Ek Notlar\nAntalya'da işletmeler için sezonluk dalgalanmalar stratejiyi etkiler. Yüksek sezon öncesinde görünürlük kampanyaları yapılmalı, düşük sezonda ise marka bağlılığı ve içerik çeşitliliği artırılmalıdır. Yerel etkinlik ve festivallere özel içerikler üretmek marka algısını güçlendirir.\n\n## Sık Sorulan Sorular\n**Bu stratejiler hangi sektörler için uygundur?**\nHizmet, turizm, sağlık, perakende ve eğitim sektörleri için uygundur.\n\n**Ne kadar sürede sonuç alınır?**\nStratejinin kapsamına göre 4-12 hafta arasında ölçülebilir sonuçlar alınabilir.\n\n**Ajans ile çalışmak neden önemlidir?**\nAjanslar, strateji, üretim ve performans süreçlerini tek bir sistemde yönettiği için daha hızlı ve sürdürülebilir sonuç üretir.\n\n## Sonuç ve Özet\nGöre Medya Ajans, Antalya'daki işletmeler için strateji, içerik, prodüksiyon ve reklam yönetimini bir arada sunar. Daha güçlü bir dijital görünürlük ve sürdürülebilir büyüme için doğru planlama ve profesyonel destek şarttır.",
+      "category": "SEO",
+      "coverUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&q=80",
+      "seoTitle": "Yerel SEO ve Google Business Profile",
+      "seoDescription": "Antalya işletmeleri için stratejik pazarlama rehberi ve uygulanabilir adımlar.",
+      "focusKeyword": "Antalya dijital pazarlama",
+      "createdAt": "2024-08-01T10:00:00"
+    },
+    {
+      "id": "post-aylik-icerik-plani",
+      "title": "Aylık İçerik Planı Nasıl Yapılır? Örnek Takvim ve Şablonlar",
+      "slug": "aylik-icerik-plani",
+      "excerpt": "Antalya'da markalar için strateji, içerik üretimi ve performans yönetimi odaklı kapsamlı rehber.",
+      "content": "## Aylık İçerik Planı Nasıl Yapılır?\nAylık içerik planı, markanın sosyal medya ve dijital pazarlama süreçlerinde düzen ve sürdürülebilirlik sağlar. Antalya'daki işletmeler için sezonluk dönemler içerik planını etkiler. Bu nedenle planlama yapılırken turizm sezonu, kampanya dönemleri ve yerel etkinlikler dikkate alınmalıdır.\n\n### İçerik Takvimi Oluşturma\nTakvim oluştururken içerikleri kategorilere ayırın: ürün tanıtımları, müşteri deneyimleri, ekip içi içerikler ve kampanya çağrıları. Bu içeriklerin haftalık dağılımı dengeli olmalıdır.\n\n## Örnek Aylık Takvim\n- Haftada 2 Reels\n- Haftada 3 görsel paylaşım\n- Haftada 1 blog link paylaşımı\n- Ayda 2 kampanya duyurusu\n\n### İçerik Şablonları\nİçerik üretiminde tasarım şablonları hız kazandırır. [Grafik Tasarım](/hizmetler/grafik-tasarim) paketleri ile marka uyumlu şablonlar oluşturulmalıdır.\n\n## Planlama Araçları\nİçerik planı için Trello, Notion veya özel ajans panelleri kullanılabilir. Göre Medya Ajans, müşterilerine haftalık içerik planı raporu sunar.\n\n## Sonuç\nAylık içerik planı, sosyal medya yönetiminin temelidir. Göre Medya Ajans ile içerik planınızı profesyonel şekilde oluşturabilir, markanızın sürekliliğini koruyabilirsiniz.\n\n\n## Stratejik Kontrol Listesi\n- Hedef kitle analizi güncel mi?\n- İçerik hedefleri ve KPI'lar net mi?\n- Görsel dil marka rehberiyle uyumlu mu?\n- Reklam ve organik içerik dengesi sağlandı mı?\n- Haftalık raporlama düzenli mi?\n\n### Ölçümleme ve Sürekli İyileştirme\nBaşarılı bir dijital strateji, düzenli ölçüm ve optimizasyon ister. Haftalık raporlarla erişim, etkileşim ve dönüşüm oranları değerlendirilmelidir. Aylık olarak ise bütçe, reklam performansı ve içerik üretim verimliliği gözden geçirilmelidir. Bu süreç, işletmenin büyüme hedefleriyle sürekli uyum içinde tutulmalıdır.\n\n### Uygulama İçin Kısa Öneriler\n- İçerik üretimini 2 haftalık bloklar halinde planlayın.\n- Fotoğraf ve video çekimlerini sezon öncesinde tamamlayın.\n- Reklam kampanyalarını düşük bütçeli testlerle başlatın.\n- En iyi performans gösteren içerikleri ölçekleyin.\n- Ajans ile aylık strateji toplantıları yapın.\n\n### Antalya Pazarı İçin Ek Notlar\nAntalya'da işletmeler için sezonluk dalgalanmalar stratejiyi etkiler. Yüksek sezon öncesinde görünürlük kampanyaları yapılmalı, düşük sezonda ise marka bağlılığı ve içerik çeşitliliği artırılmalıdır. Yerel etkinlik ve festivallere özel içerikler üretmek marka algısını güçlendirir.\n\n## Sık Sorulan Sorular\n**Bu stratejiler hangi sektörler için uygundur?**\nHizmet, turizm, sağlık, perakende ve eğitim sektörleri için uygundur.\n\n**Ne kadar sürede sonuç alınır?**\nStratejinin kapsamına göre 4-12 hafta arasında ölçülebilir sonuçlar alınabilir.\n\n**Ajans ile çalışmak neden önemlidir?**\nAjanslar, strateji, üretim ve performans süreçlerini tek bir sistemde yönettiği için daha hızlı ve sürdürülebilir sonuç üretir.\n\n## Sonuç ve Özet\nGöre Medya Ajans, Antalya'daki işletmeler için strateji, içerik, prodüksiyon ve reklam yönetimini bir arada sunar. Daha güçlü bir dijital görünürlük ve sürdürülebilir büyüme için doğru planlama ve profesyonel destek şarttır.",
+      "category": "Dijital Pazarlama",
+      "coverUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&q=80",
+      "seoTitle": "Aylık İçerik Planı Hazırlama",
+      "seoDescription": "Antalya işletmeleri için stratejik pazarlama rehberi ve uygulanabilir adımlar.",
+      "focusKeyword": "Antalya dijital pazarlama",
+      "createdAt": "2024-08-01T10:00:00"
+    }
+  ],
+  "leads": [],
+  "settings": {
+    "id": "settings",
+    "siteName": "Göre Medya Ajans",
+    "logoUrl": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=200&q=80",
+    "faviconUrl": "/favicon.ico",
+    "contactEmail": "info@goremedya.com",
+    "contactPhone": "+90 242 000 0000",
+    "contactAddress": "Muratpaşa, Antalya",
+    "socialLinks": {
+      "instagram": "https://instagram.com",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com",
+      "facebook": "https://facebook.com"
+    },
+    "googleAnalyticsId": "",
+    "enableAnimations": true,
+    "enable3d": true
+  }
+}
