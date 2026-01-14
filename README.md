@@ -1,72 +1,101 @@
-# Göre Medya Ajans (React + Vite)
+# Göre Medya Ajans (React + Vite + Express)
 
-Modern, hızlı ve içerik yönetilebilir bir medya/advertising ajansı web sitesi. Proje iki bölümden oluşur:
+Bu depo, “Göre Medya Ajans” için hazırlanmış modern bir web sitesini içerir.
+Teknik bilgisi olmayan birinin bile kurup çalıştırabilmesi için adımlar en baştan anlatılmıştır.
 
-- **/client**: React 18 + Vite + TypeScript SPA
-- **/server**: Express API (lowdb JSON veritabanı)
+## 1) Bu proje ne yapar?
 
-> Not: SPA için `react-helmet-async`, sitemap ve JSON-LD eklendi. En iyi SEO için SSR/SSG’ye geçiş önerilir.
+- Ajansın **genel tanıtım sitesi** (anasayfa, hizmetler, portfolyo, blog, iletişim)
+- **Admin paneli** (içerik yönetimi)
+- **Fiyat hesaplama sihirbazı** (çok adımlı teklif hesaplama + lead kaydı)
+- **Blog** (10 uzun Türkçe yazı hazır gelir)
 
-## Özellikler
+## 2) Proje klasörleri
 
-- Public marketing site (8 ana route)
-- Admin panel (JWT tabanlı giriş)
-- Çok adımlı fiyat hesaplama sihirbazı
-- Blog (10 Türkçe uzun içerik, SEO alanları ve iç linkler)
-- Portfolyo ve hizmet yönetimi
-- Logolar, site ayarları, lead yönetimi
-- Framer Motion animasyonları ve CSS 3D slider
-- Google Analytics entegrasyonu (route değişim takibi)
+```
+/workspace/goremedyaagency
+├── client   → Ön yüz (web sitesi)
+└── server   → API (admin giriş ve veri kaydı)
+```
 
-## Kurulum
+## 3) Kurulum (tek seferlik)
+
+Bilgisayarınızda **Node.js 18+** olduğundan emin olun.
 
 ```bash
 npm install
 ```
 
-### Geliştirme
+> Eğer “403 Forbidden” hatası alırsanız, ağ/kurumsal izinlerden dolayı erişim engelleniyor olabilir.
 
-**Client**
-```bash
-npm run dev
-```
+## 4) İlk veri hazırlığı (seed)
 
-**Server**
-```bash
-npm run dev:server
-```
-
-> API varsayılan olarak `http://localhost:8080` adresindedir. Client bu adresi kullanır.
-
-### Build / Preview
-
-```bash
-npm run build
-npm run preview
-```
-
-### Veri Seed
+Projeyi ilk kez çalıştırmadan önce demo verileri oluşturun:
 
 ```bash
 npm run seed
 ```
 
-### Sitemap oluşturma
+Bu işlem şunları oluşturur:
+- 7 hizmet
+- 3 portfolyo örneği
+- 4 logo
+- 10 uzun blog yazısı
+
+## 5) Çalıştırma (geliştirme)
+
+### 5.1 API’yi çalıştır
+```bash
+npm run dev:server
+```
+
+API şu adreste çalışır: `http://localhost:8080`
+
+### 5.2 Web sitesini çalıştır
+Yeni bir terminal açın ve:
+
+```bash
+npm run dev
+```
+
+Web sitesi şu adreste çalışır: `http://localhost:5173`
+
+## 6) Admin panel girişi
+
+Tarayıcıda şu adrese gidin:
+```
+http://localhost:5173/admin/login
+```
+
+Varsayılan giriş:
+- **Email:** `admin@goremedyaajans.com`
+- **Şifre:** `Admin123!`
+
+## 7) SEO ve sitemap
+
+Sitemap üretmek için:
 
 ```bash
 npm --workspace client run sitemap
 ```
 
-## Varsayılan Admin Bilgileri
+## 8) Yayınlama (production)
 
-- **Email:** `admin@goremedyaajans.com`
-- **Şifre:** `Admin123!`
+### 8.1 Web sitesi (client)
+```bash
+npm run build
+```
 
-Bu değerleri `.env` dosyasından değiştirebilirsiniz.
+Çıktı: `client/dist`
 
-## Ortam Değişkenleri
+### 8.2 API (server)
+```bash
+npm --workspace server run start
+```
 
-`/server/.env` dosyası oluşturun ve aşağıdaki değerleri girin:
+## 9) Ortam değişkenleri (çok önemli)
+
+`/server/.env` dosyası oluşturun:
 
 ```bash
 PORT=8080
@@ -75,42 +104,23 @@ ADMIN_PASSWORD=Admin123!
 JWT_SECRET=change-me
 ```
 
-İsteğe bağlı client ortam değişkeni:
+Opsiyonel olarak client için:
 
 ```bash
 VITE_API_URL=http://localhost:8080
 ```
 
-## Yayınlama
+## 10) Önemli dosyalar
 
-- Client: `npm run build` ile statik çıktıları alın (`/client/dist`).
-- Server: `npm run dev:server` veya `npm --workspace server run start` ile API’yi çalıştırın.
-- Görsel yüklemeleri geliştirmede `/client/public/uploads` içinde tutulur; prod ortamında bu klasörü kalıcı bir storage ile eşleyin.
-
-## Klasör Yapısı
-
-```
-/workspace/goremedyaagency
-├── client
-│   ├── public
-│   ├── scripts
-│   └── src
-│       ├── admin
-│       ├── components
-│       ├── layouts
-│       ├── pages
-│       └── styles
-├── server
-│   ├── data
-│   └── src
-└── README.md
-```
-
-## Önemli Dosyalar
-
-- `client/src/pages/*` → Public sayfalar
+- `client/src/pages/*` → Ön yüz sayfaları
 - `client/src/admin/*` → Admin panel sayfaları
-- `client/src/lib/api.ts` → API istemcisi
+- `client/src/lib/api.ts` → API iletişim noktası
 - `server/src/index.js` → Express API
-- `server/src/seed.js` → Seed veri oluşturucu
-- `client/scripts/generate-sitemap.js` → Sitemap scripti
+- `server/src/seed.js` → Demo veriler
+
+---
+
+## Notlar
+
+- Bu proje SPA olduğu için SEO’nun en iyisi için SSR/SSG’ye geçiş önerilir.
+- Görsel yüklemeleri geliştirmede `client/public/uploads` klasörüne kaydedilir.
