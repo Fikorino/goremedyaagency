@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background-color: #ffffff;
+  color: #111111;
+}
+
+.section-padding {
+  @apply px-6 py-16 md:px-12 lg:px-20;
+}
+
+.card-hover {
+  @apply transition-all duration-300 hover:-translate-y-2 hover:shadow-lift;
+}
+
+.button-primary {
+  @apply inline-flex items-center justify-center rounded-full bg-accent px-6 py-3 text-sm font-semibold text-black transition-colors hover:bg-accent-dark;
+}
+
+.button-outline {
+  @apply inline-flex items-center justify-center rounded-full border border-black px-6 py-3 text-sm font-semibold text-black transition-colors hover:bg-black hover:text-white;
+}
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
