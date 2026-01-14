@@ -1,0 +1,16 @@
+{
+  "name": "goremedyaagency",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "npm --workspace client run dev",
+    "build": "npm --workspace client run build",
+    "preview": "npm --workspace client run preview",
+    "seed": "npm --workspace server run seed",
+    "dev:server": "npm --workspace server run dev"
+  }
+}
